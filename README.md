@@ -1,5 +1,14 @@
 # Manualtesting00
-I did manual testing on rokomari website here you can find test case , matrix ,mind map,bug report and test plan
+
+
+## I did manual testing on rokomari website and 
+- Create test plan
+- Create mind maps
+- Create test cases
+- Create bug report
+- Create summary report
+- Create Test Metrics 
+
 
 # Mind map 
 [Mind map for Rokomari .pdf](https://github.com/Shazzad01/Manualtesting00/files/11223108/Mind.map.for.Rokomari.pdf)
